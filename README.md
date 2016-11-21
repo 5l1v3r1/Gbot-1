@@ -7,11 +7,11 @@ Get your telegram api key from newly created bot. Head here (https://core.telegr
 
 Watch it in Action here  ( https://www.youtube.com/watch?v=X_lflgtwcv )
 
-<a href='https://postimg.org/image/689c0qyb5/' target='_blank'><img src='https://s16.postimg.org/689c0qyb5/Screenshot_2016_11_22_01_22_47.png' border='0' alt="Screenshot_2016-11-22-01-22-47"/></a><br/><br/>
-<a href='https://postimg.org/image/na262ud69/' target='_blank'><img src='https://s16.postimg.org/na262ud69/Screenshot_2016_11_22_01_22_57.png' border='0' alt="Screenshot_2016-11-22-01-22-57"/></a><br/><br/>
-<a href='https://postimg.org/image/468umi0c1/' target='_blank'><img src='https://s16.postimg.org/468umi0c1/Screenshot_2016_11_22_01_23_03.png' border='0' alt="Screenshot_2016-11-22-01-23-03"/></a><br/><br/>
-<a href='https://postimg.org/image/d2jmqfqy9/' target='_blank'><img src='https://s16.postimg.org/d2jmqfqy9/Screenshot_2016_11_22_01_23_23.png' border='0' alt="Screenshot_2016-11-22-01-23-23"/></a><br/><br/>
-<br /><br /><br />
+<a href='https://postimg.org/image/689c0qyb5/' target='_blank'><img src='https://s16.postimg.org/krgh25rg5/Screenshot_2016_11_22_01_22_47.png' border='0' alt="Screenshot_2016-11-22-01-22-47"/></a><br/><br/>
+<a href='https://postimg.org/image/na262ud69/' target='_blank'><img src='https://s16.postimg.org/na262ud6d/Screenshot_2016_11_22_01_22_57.png' border='0' alt="Screenshot_2016-11-22-01-22-57"/></a><br/><br/>
+<a href='https://postimg.org/image/468umi0c1/' target='_blank'><img src='https://s16.postimg.org/m91xdpw6t/Screenshot_2016_11_22_01_23_03.png' border='0' alt="Screenshot_2016-11-22-01-23-03"/></a><br/><br/>
+<a href='https://postimg.org/image/d2jmqfqy9/' target='_blank'><img src='https://s16.postimg.org/wkea6dnw5/Screenshot_2016_11_22_01_23_23.png' border='0' alt="Screenshot_2016-11-22-01-23-23"/></a><br/><br/>
+<br /><a target='_blank' href='https://postimage.org/'>free picture hosting</a><br /><br />
 
 #Usage
 
