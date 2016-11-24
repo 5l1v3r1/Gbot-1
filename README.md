@@ -5,7 +5,7 @@ This can Execute system commands, Send / Receive Media (Audio, video , Images , 
 
 Get your telegram api key from newly created bot. Head here (https://core.telegram.org/bots/faq#how-do-i-create-a-bot ) to create a bot.
 
-Watch it in Action here  ( https://www.youtube.com/watch?v=X_lflgtwcv )
+Watch it in Action here  ( https://youtu.be/X_lflgtwcvs )
 
 <a href='https://postimg.org/image/689c0qyb5/' target='_blank'><img src='https://s16.postimg.org/krgh25rg5/Screenshot_2016_11_22_01_22_47.png' border='0' alt="Screenshot_2016-11-22-01-22-47"/></a><br/><br/>
 
